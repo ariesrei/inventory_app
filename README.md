@@ -1,1 +1,3 @@
-# inventory_app
+# Inventory App
+
+## NodeJS ElectronJS
